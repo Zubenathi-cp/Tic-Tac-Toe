@@ -28,7 +28,11 @@ A simple Tic Tac Toe game implemented in C# using Windows Forms. This project in
 3.The game will display a message when there is a win, loss, or tie.
 4.The game will automatically restart after each round.
 
+## Contributing
+We welcome contributions from the community! If you have suggestions for new features, improvements, or bug fixes, please feel free to submit a pull request or open an issue.
 
+## Contact
+For any questions or feedback, please contact us at [zubenathimateza73@gmail.com](mailto:zubenathimateza73@gmail.com).
 
 
 
