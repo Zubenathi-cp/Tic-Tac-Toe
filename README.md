@@ -31,6 +31,10 @@ A simple Tic Tac Toe game implemented in C# using Windows Forms. This project in
 ## Contributing
 We welcome contributions from the community! If you have suggestions for new features, improvements, or bug fixes, please feel free to submit a pull request or open an issue.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 For any questions or feedback, please contact us at [zubenathimateza73@gmail.com](mailto:zubenathimateza73@gmail.com).
 
